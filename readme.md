@@ -1,3 +1,9 @@
+Als Info für die Punkteverteilung:
+1. Ein komplett richtig getipptes Spiel gibt 3 Punkte
+2. Wer den Gewinner bzs ein Unentschieden richtig hat, aber die Toranzahl nicht, bekommt 2 Punkte
+3. Wer das Spiel falsch getippt hat aber die Gesamtanzahl der gefallenen Tore richtig bekommt 1 Punkt
+4. Alles falsch: 0 Punkte
+
 ------------------------------------------------------------------------------------------------------
 Version in der alle schauen, aber niemand etwas ändern kann:
 
