@@ -1,3 +1,10 @@
+------------------------------------------------------------------------------------------------------
+Version in der alle schauen, aber niemand etwas ändern kann:
+
+https://docs.google.com/spreadsheets/d/1IZ6ZlZ4X6uRZcMkTZHWNv4Kb_7zleXSzkXnt3vBi-nM/edit#gid=1493282346
+
+------------------------------------------------------------------------------------------------------
+
 Mutti:  https://docs.google.com/spreadsheets/d/1phwfKp7pi59DKn4wJfR7L3IsUJ7rz_ZSqmQJzUpq5O4/edit#gid=0
 
 Roli:   https://docs.google.com/spreadsheets/d/1Suyns1abfalOFCppgZ8uSkYH7Lgy25MkzJXbza0wcQU/edit#gid=0
