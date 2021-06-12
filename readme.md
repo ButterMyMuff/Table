@@ -10,6 +10,15 @@ Version in der alle schauen, aber niemand etwas ändern kann:
 https://docs.google.com/spreadsheets/d/1IZ6ZlZ4X6uRZcMkTZHWNv4Kb_7zleXSzkXnt3vBi-nM/edit#gid=1493282346
 
 ------------------------------------------------------------------------------------------------------
+Aktuelle Tabelle:
+![alt text](https://gyazo.com/7d7102f9984f8bf74434f13774c5758e)
+
+
+
+
+
+
+
 
 Mutti:  https://docs.google.com/spreadsheets/d/1phwfKp7pi59DKn4wJfR7L3IsUJ7rz_ZSqmQJzUpq5O4/edit#gid=0
 
