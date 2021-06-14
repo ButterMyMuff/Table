@@ -11,7 +11,7 @@ https://docs.google.com/spreadsheets/d/1IZ6ZlZ4X6uRZcMkTZHWNv4Kb_7zleXSzkXnt3vBi
 
 ------------------------------------------------------------------------------------------------------
 Aktuelle Tabelle:
-![Tabelle](https://i.gyazo.com/0cedc8b63a51bbd70c14e2363b704d52.png)
+![Tabelle](https://i.gyazo.com/2305ca9a4cc88f12baf3855b049a2d43.png)
 
 ------------------------------------------------------------------------------------------------------
 
